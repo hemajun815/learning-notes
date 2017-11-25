@@ -4,3 +4,4 @@
 - [绪论](./network-security/0.exordium.md)
 - [网络攻击与威胁](./network-security/1.threats-and-attacks-of-network.md)
 - [密码学基础](./network-security/2.foundations-of-cryptography.md)
+- [密钥管理与分配](./network-security/3.key-management-and-allocation.md)
