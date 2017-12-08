@@ -11,3 +11,6 @@
 - 待续...
 
 ### 高级计算机结构（advanced computer architecture）
+
+- [绪论](./advanced-computer-architecture/0.exordium.md)
+- 待续...
