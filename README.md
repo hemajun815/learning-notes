@@ -13,4 +13,5 @@
 ### 高级计算机结构（advanced computer architecture）
 
 - [绪论](./advanced-computer-architecture/0.exordium.md)
+- [Intel8086](./advanced-computer-architecture/1.Intel8086.md)
 - 待续...
