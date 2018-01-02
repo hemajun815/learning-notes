@@ -14,4 +14,5 @@
 - [网络攻击与威胁](./network-security/1.threats-and-attacks-of-network.md)
 - [密码学基础](./network-security/2.foundations-of-cryptography.md)
 - [密钥管理与分配](./network-security/3.key-management-and-allocation.md)
+- [消息加密与数字签名](./network-security/4.message-authentication-and-digital-signature.md)
 - 待续...
