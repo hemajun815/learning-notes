@@ -7,6 +7,7 @@
 - [绪论](./advanced-computer-architecture/exordium.md)
 - [Intel8086](./advanced-computer-architecture/Intel8086.md)
 - [Intel80286](./advanced-computer-architecture/Intel80286.md)
+- [Intel80386](./advanced-computer-architecture/Intel80386.md)
 - 待续...
 
 ### 网络安全（network security）
